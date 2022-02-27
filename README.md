@@ -160,7 +160,7 @@ Example
 #include "FileEncryptionOps.h"
 int main()
 {
-	XOR_WriteFile_Encryption("C:\\Objs\\"); // Encriptara todo lo de la carpeta "Objs" en el disco C:
+	XOR_WriteFile_Encryption("C:\\Objs\\"); // It will encrypt everything in the "Objs" folder on disk C:
 	return 0;
 }
 ```
