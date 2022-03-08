@@ -6,13 +6,13 @@ I came up with the idea of doing it on my own, this is my method and as I always
 
 Another interesting thing is that it encrypts without overwriting, with this I mean that if we have 2 files one with name A.ext and B.ext when encrypting it will be like this: A(0).ext and B(1).ext, the same when decrypting...
 
-Encrypted:
+**Encryption:**
 
 ![e1](/1.png)
 
 In the same way you can decrypt it (with SDL I managed to make it runtime, so the user would not notice it
 <br/>
-Decrypted:
+**Decryption:**
 
 ![e2](/2.png)
 
