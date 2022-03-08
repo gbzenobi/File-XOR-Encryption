@@ -1,12 +1,11 @@
 /*******************************************
 *
 *
-* Author : NvK
-* Libreria : FileEncryptionOps
-* Versión : 0.9
-* Descripción : Trabaja con imágenes principalmente, permitiendo encriptar/desencriptar,
-* Compatible con SDL para trabajar con RWops y recursos!!.
-* Fecha : 24-2-2014
+* Author : Gabriel Zenobi
+* lib : FileEncryptionOps
+* Version : 0.9
+* Description : Work mainly with images, allowing encryption/decryption, Compatible with SDL to work with RWops and resources.
+* Date : 24-2-2014
 *
 ********************************************/
 #include <stdio.h>
