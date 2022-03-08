@@ -10,7 +10,8 @@ Another interesting thing is that it encrypts without overwriting, with this I m
 
 ![e1](/1.png)
 
-In the same way you can decrypt it (with SDL I managed to make it runtime, so the user would not notice it
+
+In the same way you can decrypt it (with SDL I managed to make it runtime, so the user would not notice it).
 <br/>
 **Decryption:**
 
