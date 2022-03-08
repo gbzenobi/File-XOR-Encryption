@@ -21,11 +21,10 @@ Code:
 /*******************************************
 *
 *
-* Author : NvK
+* Author : Gabriel Zenobi
 * lib : FileEncryptionOps
 * Version : 0.9
-* Description : Trabaja con imágenes principalmente, permitiendo encriptar/desencriptar,
-* Compatible with SDL to work with RWops and resources.
+* Description : Work mainly with images, allowing encryption/decryption, Compatible with SDL to work with RWops and resources.
 * Date : 24-2-2014
 *
 ********************************************/
